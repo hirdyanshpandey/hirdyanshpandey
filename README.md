@@ -1,5 +1,8 @@
 # Hirdyansh Pandey
 
+[View my engineering portfolio ↗](https://hirdyansh-engineering.hirdyansh-pandey.chatgpt.site/)
+
+
 **Lead Engineer · Python Backend · Cloud & Applied AI**  
 Noida, India · [LinkedIn](https://www.linkedin.com/in/hirdyanshpandey/)
 
