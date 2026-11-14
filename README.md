@@ -29,3 +29,10 @@ I build multi-tenant backend services, data-intensive workflows and LLM-enabled 
 
 - B.Tech, Computer Science Engineering — Hindustan College of Science & Technology
 - Diploma, Computer Science Engineering — Sanskriti Institute of Polytechnic
+
+
+## Certifications
+
+- **Learning Docker** — LinkedIn Learning · [View credential](https://www.linkedin.com/learning/certificates/b9e47a08576c7d17a036546944f87c91c69632b30165d6b717b309fcb50dcc35)
+- **Microsoft Security Essentials** — Microsoft + LinkedIn · [View credential](https://www.linkedin.com/learning/certificates/6c83e44b8bb872f08cd0ffd88f3de57babf5596600141dce303d3a83364e5cf9)
+- **AI Foundations: Machine Learning** — LinkedIn Learning · [View credential](https://www.linkedin.com/learning/certificates/f20b2ac0abb1ff730417a782c0e15e5bc40a01b0051803b56dd38a17c3dead59)
